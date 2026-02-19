@@ -1,0 +1,14 @@
+{
+  "name": "event-emitter-lab",
+  "version": "1.0.0",
+  "description": "Async EventEmitter example for Web Technologies Lab",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "22311A501",
+  "license": "ISC",
+  "keywords": [],
+  "type": "commonjs"
+}
+ 
